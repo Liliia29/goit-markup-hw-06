@@ -203,7 +203,7 @@ ul{
 .modal{
     position: absolute;
     width: 408px;
-    height: 576px;
+    
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
@@ -272,6 +272,10 @@ ul{
     border: 1px solid var(--button-color);
     outline: none;
 }
+
+
+
+
 .form-field input:focus {
     border: 1px solid var(--button-color);
     outline: none;
@@ -685,7 +689,7 @@ ul{
     display: block;
     margin-right: 120px;
     width:264px;
-    height:72px;
+    
 }
 
 .footer .container{
@@ -781,7 +785,10 @@ margin-left: auto;
     justify-content: center;
     align-items: center;
 }
-
+.box-subscribe input:focus {
+    border: 1px solid var(--button-color);
+    outline: none;
+}
 
 /* кнопки */
 
