@@ -273,9 +273,6 @@ ul{
     outline: none;
 }
 
-
-
-
 .form-field input:focus {
     border: 1px solid var(--button-color);
     outline: none;
